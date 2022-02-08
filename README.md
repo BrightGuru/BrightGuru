@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrightGuru
-- 👀 I’m interested in machine learning and its application in genetics and breeding.
+- 👀 I’m interested in genomics studies. I love machine learning and its application in genomics.
 - 🌱 I’m currently learning Python
 
 <!---
